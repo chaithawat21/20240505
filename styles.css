@@ -161,6 +161,13 @@ body {
     color: var(--Nutmeg);
     
 }
+footer {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
 
 @media  (max-width: 375px) {
     .main {
