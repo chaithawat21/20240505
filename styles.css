@@ -54,9 +54,10 @@ body {
     margin-block: 20px;
     padding: 20px;
 }
-.box02 h4 {
+.box02 p {
     color: var(--DarkRaspberry);
-    font-size: 17px;
+    font-size: 20px;
+    font-weight: 700;
     margin-block: 5px;
 }
 .box02 ul {
@@ -80,9 +81,9 @@ body {
     padding-bottom: 25px;
     border-bottom: 1px solid var(--LightGrey);
 }
-.box03 h3{
+.box03 h2{
     font-family: "Young serif", sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     color: var(--Nutmeg);
     margin-block: 20px;
 }
